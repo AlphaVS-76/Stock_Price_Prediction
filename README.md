@@ -1,4 +1,4 @@
-# Stock_Price_Prediction
+# Stock Price Predictor
 Predicting Stock Prices using ML Algorithms like Linear/Lasso/Ridge/Support Vector Regression
 
 ## Documentation
